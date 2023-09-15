@@ -45,6 +45,7 @@ h1 {
 
 .accordion_item--active .accordion_content {
     transition: 0.5s;
+    max-height: 1000px;
 }
 
 .accordion_item--closed .accordion_content {
